@@ -2,6 +2,8 @@
 [Sen sdlc project](https://github.com/orinemiamachree123-collab/Sen-assignment2-.git)
 # SEN 201 – Simple Calculator Web App
 
+https://github.com/orinemiamachree123-collab/Sen-assignment2-.git
+
 - **Name:** Orinemi Amachree Anthony  
 - **Department:** Computer Science  
 - **Matric Number:** 24/14559  
