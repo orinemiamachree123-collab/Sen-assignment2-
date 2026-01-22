@@ -2,15 +2,17 @@
 Sen sdlc project
 # SEN 201 – Simple Calculator Web App
 
+- **Name:** Orinemi Amachree Anthony  
+- **Department:** Computer Science  
+- **Matric Number:** 24/14559  
+
+
 ## Project Overview
 This project is a **Simple Calculator Web App** created as part of the **SEN 201 assignment**.  
 It allows users to perform basic arithmetic operations such as **addition, subtraction, multiplication, and division** directly in a web browser.  
 
 The project also displays the student information at the top of the page:
 
-- **Name:** Orinemi Amachree Anthony  
-- **Department:** Computer Science  
-- **Matric Number:** 24/14559  
 
 This project demonstrates the **Software Development Life Cycle (SDLC)** using a small, interactive web application.
 
