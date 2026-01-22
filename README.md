@@ -1,5 +1,5 @@
 # Sen-assignment2-
-Sen sdlc project
+[Sen sdlc project](https://github.com/orinemiamachree123-collab/Sen-assignment2-.git)
 # SEN 201 – Simple Calculator Web App
 
 - **Name:** Orinemi Amachree Anthony  
